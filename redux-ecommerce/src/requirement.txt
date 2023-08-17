@@ -1,0 +1,11 @@
+npx create-react-app redux-ecommerce
+
+dependencies
+npm- node package manager
+1) npm install axios --save: add axios dependencies to node modules and also update package.json 
+2) npm install react-router-dom --save
+3) npm install react react-redux --save
+
+https://github.com/reduxjs/redux-devtools/tree/main/extension#installation
+
+npm install -g npm-check-updates
